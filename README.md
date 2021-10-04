@@ -54,8 +54,8 @@ npm install;
 ```bash
 npm start;
 ```
-7. Existe softwares específicos para rodar os endpoints back-end em seu próprio computador.
-Como sugestão, estou deixando esse [link](https://www.youtube.com/watch?v=nSO12ItKDds) que mostra como utilizar o Postman, que foi a ferramenta usada 
+7. Para as requisições do tipo get, você pode rodar os endpoints diretamente do seu navegador usando a porta 3000.
+Exemplo `http://localhost:3000/talker`. Para os demais tipos de requisições, são necessários softwares específicos para essa finalidade. Como sugestão, estou deixando esse [link](https://www.youtube.com/watch?v=nSO12ItKDds) que mostra como utilizar o Postman. Esta foi a ferramenta usada 
 para os testes dos endpoints durante o desenvolvimento desse projeto.
 
 
